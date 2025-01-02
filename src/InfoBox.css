@@ -1,0 +1,10 @@
+.InfoBox {
+    text-align: left;
+  }
+  
+  .cardConatiner {
+    display: flex;
+    border: 2px double lightgray;
+    padding: 10px;
+  }
+
